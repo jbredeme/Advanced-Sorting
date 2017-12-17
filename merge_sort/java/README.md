@@ -6,7 +6,6 @@ This is the merge sort algorithm written in the Java programming language. This 
 
 ## Screenshot(s)
 <img src="screenshots/example_01.jpg">
-<img src="screenshots/example_02.jpg">
 
 ## Built with
 * Java version "1.8.0_151"
