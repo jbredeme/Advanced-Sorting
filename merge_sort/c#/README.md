@@ -5,7 +5,7 @@ This is the merge sort algorithm written in the C# programming language within t
 * The time complexity is order of n log n.
 
 ## Screenshot(s)
-<img src="screenshots/example_01.jpg" > 
+<img src="screenshots/example_01.jpg" width="444px"><img src="screenshots/example_02.jpg" width="444px">
 
 ## Built with
 * Microsoft Visual Studio 2017
